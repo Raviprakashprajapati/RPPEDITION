@@ -1,0 +1,14 @@
+#nav1{
+
+    font-size: 20px;
+}
+
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(255 255 255);
+    font-weight: 500;
+}
+
+#textwhite{
+    color: white;
+}
